@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433293866896",
+    "project_id": "asqii-91828",
+    "storage_bucket": "asqii-91828.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433293866896:android:df4d82f37b7ea121f6a515",
+        "android_client_info": {
+          "package_name": "com.example.projet_pfe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZiIV8PxXGNX5ioUKaEHE7dUtXyIAk7Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
